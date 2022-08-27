@@ -10,11 +10,14 @@
 
 ### In package.json file
 
-  "scripts": {
-    "start": "lite-server"
-  },
+"scripts": {
+"start": "lite-server"
+},
 
-
-### tsc --init  (it will create tsconfig file that compile all ts file)
+### tsc --init (it will create tsconfig file that compile all ts file)
 
 ### tsc (this command compile all ts file)
+
+### tsc app.ts (single file compile)
+
+### npm start (run the application)
